@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Indra Project (KDE Visual Design Group & Custom)"
+            }
+        ],
+        "Category": "Plasma Theme",
+        "Description": "Zero-opacity pure frosted blur desktop theme with 95% adaptive solid mode, subtle 10% top light stroke, and zero side/bottom borders.",
+        "EnabledByDefault": true,
+        "Id": "indra-shunya",
+        "License": "CC0-1.0",
+        "Name": "Indra Shunya",
+        "Version": "1.0"
+    },
+    "X-Plasma-API": "5.0"
+}

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" width="3" height="1" id="svg2" ns1:version="0.32" ns2:version="1.4.2 (ebf0e940d0, 2025-05-08)" version="1.0" ns1:docname="line.svg" ns2:output_extension="org.inkscape.output.svgz.inkscape" ns2:export-filename="arrow-up.png" ns2:export-xdpi="11.25" ns2:export-ydpi="11.25">
+  <defs id="defs2" />
+  <ns1:namedview id="namedview2" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" ns2:zoom="256" ns2:cx="1.5" ns2:cy="0.49804688" ns2:window-width="3440" ns2:window-height="1373" ns2:window-x="0" ns2:window-y="0" ns2:window-maximized="1" ns2:current-layer="svg2" />
+  <style id="current-color-scheme" type="text/css">
+        .ColorScheme-Text {
+            color:#31363b;
+        }
+        .ColorScheme-Background{
+            color:#eff0f1;
+        }
+        .ColorScheme-ViewText {
+            color:#31363b;
+        }
+        .ColorScheme-ViewBackground{
+            color:#fcfcfc;
+        }
+        .ColorScheme-ViewHover {
+            color:#3daee9;
+        }
+        .ColorScheme-ViewFocus{
+            color:#3daee9;
+        }
+        .ColorScheme-ButtonText {
+            color:#31363b;
+        }
+        .ColorScheme-ButtonBackground{
+            color:#eff0f1;
+        }
+        .ColorScheme-ButtonHover {
+            color:#3daee9;
+        }
+        .ColorScheme-ButtonFocus{
+            color:#3daee9;
+        }
+    </style>
+  <g id="vertical-line">
+    <rect width="1" height="1" x="0" y="0" class="ColorScheme-Frame" style="opacity:0;fill-opacity:0;stroke:none" id="rect1" opacity="0" />
+  </g>
+  <g id="horizontal-line">
+    <rect width="1" height="1" x="2" y="0" class="ColorScheme-Frame" style="opacity:0;fill-opacity:0;stroke:none" id="rect2" opacity="0" />
+  </g>
+</svg>
